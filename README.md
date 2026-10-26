@@ -33,12 +33,10 @@
 |---|---|
 | **Languages** | ![Java](https://img.shields.io/badge/Java_21-ED8B00?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white) |
 | **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white) |
-| **Also used** | OAuth2 Resource Server · Spring Data JPA · Jakarta Servlet/JSP · WebSocket/STOMP · MapStruct · Bean Validation |
-| **Database & Caching** | ![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis_7-DC382D?logo=redis&logoColor=white) · Distributed locking · Key-expiry events |
-| **Testing** | ![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?logo=junit5&logoColor=white) Mockito · Testcontainers |
+| **Database & Caching** | ![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis_7-DC382D?logo=redis&logoColor=white)|
+| **Testing** | ![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?logo=junit5&logoColor=white)|
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) |
-| **Architecture & Security** | REST API design · Layered architecture / MVC · RBAC · Transaction management · SOLID principles |
 
 ---
 
@@ -86,4 +84,4 @@
   <a href="https://github.com/ungvantri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Thanks for stopping by! If you're hiring a Java Backend Intern, I'd love to hear from you. ⭐</i></p>
+<p align="center"><i>Thanks for stopping by! If you're hiring a Java Backend, I'd love to hear from you. ⭐</i></p>
