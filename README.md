@@ -13,18 +13,16 @@
 <p align="center">
   📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp;
   📧 <a href="mailto:ungvantri91@gmail.com">ungvantri91@gmail.com</a> &nbsp;|&nbsp;
-  🎯 Open to Java Backend Internship opportunities
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student at **Ho Chi Minh City University of Technology and Education (HCMUTE)
+- 🎓 Software Engineering student at Ho Chi Minh City University of Technology and Education (HCMUTE)
 - ☕ Focused on **Java & Spring Boot** backend development
 - 🔧 Hands-on with RESTful APIs, concurrency control, stateless authentication, Redis caching, payment integration, and automated testing
-- 🏅 **Bronze Medalist**, National Student Mathematics Olympiad (2025)
-- 🌱 Currently learning **event-driven architecture** and deepening my **system design** fundamentals
+- 🌱 Deepening my **system design** fundamentals
 - 💡 Interested in building reliable, scalable backend systems
 
 ---
@@ -78,15 +76,6 @@
 
 - 🥉 **Bronze Medal** — National Student Mathematics Olympiad, Vietnam (2025)
 - 🎓 **Academic Encouragement Scholarship** — Semester 1, Academic Year 2024–2025, HCMUTE
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ungvantri&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ungvantri&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
