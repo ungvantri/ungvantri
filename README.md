@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student at Ho Chi Minh City University of Technology and Education (HCMUTE)
+- 🎓 Software Engineering student at Ho Chi Minh City University of Technology and Engineering (HCMUTE)
 - ☕ Focused on **Java & Spring Boot** backend development
 - 🔧 Hands-on with RESTful APIs, concurrency control, stateless authentication, Redis caching, payment integration, and automated testing
 - 🌱 Deepening my **system design** fundamentals
