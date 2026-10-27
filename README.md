@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ung Văn Trí 👋</h1>
 
-<h3 align="center">Java Backend Intern | Software Engineering student @ HCMUTE</h3>
+<h3 align="center">Java Backend | Software Engineering student @ HCMUTE</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
